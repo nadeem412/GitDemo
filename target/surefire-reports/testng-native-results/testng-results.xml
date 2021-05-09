@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-25T23:11:09 IST" name="Surefire suite" finished-at="2021-04-25T23:11:09 IST" duration-ms="82">
+    <groups>
+    </groups>
+    <test started-at="2021-04-25T23:11:09 IST" name="Surefire test" finished-at="2021-04-25T23:11:09 IST" duration-ms="82">
+      <class name="qalinkclick.JavaMaven.AppiumTest">
+        <test-method signature="IOsDevice()[pri:0, instance:qalinkclick.JavaMaven.AppiumTest@25a65b77]" started-at="2021-04-25T23:11:09 IST" name="IOsDevice" finished-at="2021-04-25T23:11:09 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOsDevice -->
+        <test-method signature="mobileAndroid()[pri:0, instance:qalinkclick.JavaMaven.AppiumTest@25a65b77]" started-at="2021-04-25T23:11:09 IST" name="mobileAndroid" finished-at="2021-04-25T23:11:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileAndroid -->
+      </class> <!-- qalinkclick.JavaMaven.AppiumTest -->
+      <class name="qalinkclick.JavaMaven.RestAssuredAPITest">
+        <test-method signature="mobileapp()[pri:0, instance:qalinkclick.JavaMaven.RestAssuredAPITest@358c99f5]" started-at="2021-04-25T23:11:09 IST" name="mobileapp" finished-at="2021-04-25T23:11:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileapp -->
+        <test-method signature="webapp()[pri:0, instance:qalinkclick.JavaMaven.RestAssuredAPITest@358c99f5]" started-at="2021-04-25T23:11:09 IST" name="webapp" finished-at="2021-04-25T23:11:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webapp -->
+      </class> <!-- qalinkclick.JavaMaven.RestAssuredAPITest -->
+      <class name="qalinkclick.JavaMaven.SeleniumTest">
+        <test-method signature="WebApp()[pri:0, instance:qalinkclick.JavaMaven.SeleniumTest@3ee0fea4]" started-at="2021-04-25T23:11:09 IST" name="WebApp" finished-at="2021-04-25T23:11:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebApp -->
+        <test-method signature="automation()[pri:0, instance:qalinkclick.JavaMaven.SeleniumTest@3ee0fea4]" started-at="2021-04-25T23:11:09 IST" name="automation" finished-at="2021-04-25T23:11:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automation -->
+      </class> <!-- qalinkclick.JavaMaven.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
